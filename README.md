@@ -1,6 +1,10 @@
-## Botina 
+# Botina 
 
-Using recurrent neural networks to predict stock prices. 
+Botina is the better bot for try help us in a difficult task, trying predict the stock prices.
+
+## How its works
+
+Botina uses a recurrent neural networks to try predict stock prices. a good reference to know about [recurrent neural networks](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912).
 
 ## Team 
 
